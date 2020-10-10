@@ -1,4 +1,5 @@
-# M4800_OpenCore Catalina 10.15.7
+# M4800_OpenCore
+macOS: Catalina 10.15.7
 
 ## Hardware:
 CPU: i7-4900MQ
@@ -10,10 +11,14 @@ BIOS: A25. Set to Default, apply, then set SATA Operations to AHCI, set Boot Lis
 
 ## What's working:
 - Wifi
-- Brightness
+- Brightness: Fn+F3, Fn+Insert
 ## What isn't working:
 - Sound
 - Bluetooth
 - Trackpad
 - HDMI
 - Power Management
+- Ethernet
+
+# Guides:
+- https://dortania.github.io/OpenCore-Install-Guide/
