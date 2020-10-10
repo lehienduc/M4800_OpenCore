@@ -10,15 +10,17 @@ macOS: Catalina 10.15.7
 - BIOS: A25. Set to Default, apply, then set SATA Operations to AHCI, set Boot List Option to UEFI, Disable Secure Boot.
 
 ## What's working:
+- Keyboard, touch pad
 - Wifi
 - Brightness: Fn+F3, Fn+Insert
 ## What isn't working:
 - Sound
 - Bluetooth
-- Trackpad
+- Trackpad settings
 - HDMI
 - Power Management
 - Ethernet
+- Many more...
 
 # Guides:
 - https://dortania.github.io/OpenCore-Install-Guide/
