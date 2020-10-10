@@ -12,6 +12,8 @@ BIOS: A25. Set to Default, apply, then set SATA Operations to AHCI, set Boot Lis
 - Wifi
 - Brightness
 ## What isn't working:
-- Audio
+- Sound
 - Bluetooth
 - Trackpad
+- HDMI
+- Power Management
